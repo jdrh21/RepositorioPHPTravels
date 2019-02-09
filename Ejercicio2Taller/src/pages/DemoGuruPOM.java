@@ -11,6 +11,9 @@ import java.math.BigInteger;
  *
  * @author Jose Daniel Restrepo
  */
+ 
+ //Clase que contiene las interacciones entre el WebDriver y el navegador
+ 
 public class DemoGuruPOM {
     WebDriver bot;
     String id,id2;   
